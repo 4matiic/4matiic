@@ -7,6 +7,7 @@
 
 <p align="center"> 
   <code><img height="25" src="https://skillicons.dev/icons?i=js"></code>&nbsp; |
+    <code><img height="25" src="https://skillicons.dev/icons?i=lua"></code>&nbsp; |
   <code><img height="25" src="https://skillicons.dev/icons?i=nodejs"></code>&nbsp;
 </p>
 
