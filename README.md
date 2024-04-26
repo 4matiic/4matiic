@@ -19,7 +19,7 @@
 
 <h2 align="center">Tools</h2>
 <p align="center">
-    <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"></code>&nbsp; |
+    <code><img height="25" src="https://skillicons.dev/icons?i=vscode"></code>&nbsp; |
     <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></code>&nbsp;
 </p>
 
