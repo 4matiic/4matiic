@@ -10,13 +10,6 @@
   <code><img height="25" src="https://skillicons.dev/icons?i=nodejs"></code>&nbsp;
 </p>
 
-<h2 align="center">Softwares</h2>
-
-<p align="center">
-  <code><img height="25" src="https://cdn.discordapp.com/attachments/1210725014551138366/1218560086071574589/visual-studio-code-icon.png?ex=66081b84&is=65f5a684&hm=d4dbce52b881258e674225a831cd6e57c162279302249f81b95dfcc1f0b4a9ae&"></code>&nbsp; |
-  <code><img height="25" src="https://cdn.discordapp.com/attachments/1210725014551138366/1218560309187317801/xampp_94513.png?ex=66081bb9&is=65f5a6b9&hm=8ac7f5d0b866bbc01cefaa8db7a58ef0e527abb9338da478ebc0376b026c683d&"></code>&nbsp;
-</p>
-
 <h2 align="center">Tools</h2>
 <p align="center">
     <code><img height="25" src="https://skillicons.dev/icons?i=vscode"></code>&nbsp; |
