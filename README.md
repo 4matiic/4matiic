@@ -3,11 +3,11 @@
 <img src="https://cdn.discordapp.com/attachments/1211423949729308723/1233501317712973966/723262.gif?ex=662d531f&is=662c019f&hm=f4c43ae9fa752a26b94c2a651c0027448e90018da8be12cc77f56719a9d71579&">
 
 # Skills
-<h2 align="center">Languages</h2>
+<h2 align="center">Programming languages & Frameworks:</h2>
 
 <p align="center"> 
-  <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>&nbsp; |
-  <code><img height="25" src="https://cdn.discordapp.com/attachments/1210725014551138366/1218560751522943088/lua-1.png?ex=66081c22&is=65f5a722&hm=efdd57f883b362adfc9d7c8e77c0f483bd28a4aa2161b7515be9b22921af3ab3&"></code>&nbsp;
+  <code><img height="25" src="https://skillicons.dev/icons?i=js"></code>&nbsp; |
+  <code><img height="25" src="https://skillicons.dev/icons?i=nodejs"></code>&nbsp;
 </p>
 
 <h2 align="center">Softwares</h2>
