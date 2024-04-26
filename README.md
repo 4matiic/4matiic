@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Courgette&size=30&pause=1000&color=F7F7F7&random=false&width=435&lines=Hi+there+%2C+I'm+4matic+🎓)](https://git.io/typing-svg)
 
-<img src="https://cdn.discordapp.com/attachments/1211423949729308723/1233501317712973966/723262.gif?ex=662d531f&is=662c019f&hm=f4c43ae9fa752a26b94c2a651c0027448e90018da8be12cc77f56719a9d71579&">
+<img src="https://media.discordapp.net/attachments/1218746261596012585/1233532255927009362/IMG_6069.gif?ex=662d6fef&is=662c1e6f&hm=19450801278b6ec9d75718a3e061e7a2be160abaccf89d0e34db24e89d1195be&=">
 
 # Skills
 <h2 align="center">Programming languages & Frameworks:</h2>
