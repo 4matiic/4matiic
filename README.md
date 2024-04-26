@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courgette&size=30&pause=1000&color=F7F7F7&random=false&width=435&lines=Hi+there+%2C+I'm+4matic+🔮)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courgette&size=30&pause=1000&color=F7F7F7&random=false&width=435&lines=Hi+there+%2C+I'm+4matic+🎓)](https://git.io/typing-svg)
 
 *I would like to point out that I am not a professional developer, I only do it out of passion !*
 
