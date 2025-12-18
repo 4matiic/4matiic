@@ -15,28 +15,3 @@
 <p align="center">
     <code><img height="25" src="https://skillicons.dev/icons?i=vscode"></code>&nbsp;
 </p>
-
-
-
-
-
-
-<div align="center">
-    <h3 align="center">My Statistics</h3>
-    <p align="center">
-        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=4matiic&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" align="center" />
-    </p>
-</div>
-
-<div align="center">
-    <p align="center">
-        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=4matiic&&theme=tokyonight&layout=compact&langs_count=10" align="center" />
-    </p>
-</div>
-
-<div align="center">
-    <p align="center">
-        Views : <br>
-        <img src="https://profile-counter.glitch.me/4matiic/count.svg" align="center" />
-    </p>
-</div>
